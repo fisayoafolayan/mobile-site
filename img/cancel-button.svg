@@ -1,0 +1,18 @@
+<svg width="72" height="72" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>buitton</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-1076 -919)">
+<g id="buitton">
+<g id="Oval">
+<use xlink:href="#path0_fill" transform="matrix(0.707107 -0.707107 0.707107 0.707107 1076.64 955)" fill="#00BABA"/>
+</g>
+<g id="Plus">
+<use xlink:href="#path1_fill" transform="matrix(-0.0174524 0.999848 -0.999848 -0.0174524 1120.1 946.803)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 25 50C 38.8071 50 50 38.8071 50 25C 50 11.1929 38.8071 0 25 0C 11.1929 0 0 11.1929 0 25C 0 38.8071 11.1929 50 25 50Z"/>
+<path id="path1_fill" fill-rule="evenodd" d="M 6.24055 8.2818L 0.0154908 14.4281L 2.09306 16.5323L 8.34158 10.3628L 14.5704 16.5321L 16.6512 14.4311L 10.4459 8.2851L 16.686 2.12389L 14.6085 0.0196873L 8.34483 6.20414L 2.08087 0L 0 2.10086L 6.24055 8.2818Z"/>
+</defs>
+</svg>

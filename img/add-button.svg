@@ -1,0 +1,12 @@
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile" transform="translate(-135.000000, -604.000000)">
+            <g id="bottom" transform="translate(98.000000, 537.000000)">
+                <g id="buitton" transform="translate(37.000000, 67.000000)">
+                    <circle id="Oval" fill="#00BABA" cx="25" cy="25" r="25"></circle>
+                    <path d="M22.6808163,24.7989951 L16.4557498,30.9453124 L18.5332834,33.0494642 L24.781845,26.879949 L31.0107697,33.0493578 L33.0915938,30.9484601 L26.8861279,24.8022859 L33.1262496,18.6411038 L31.0487161,16.5369521 L24.7850993,22.7213321 L18.5211955,16.5172784 L16.4403714,18.6181761 L22.6808163,24.7989951 Z" id="Plus" fill="#FFFFFF" transform="translate(24.783318, 24.783318) rotate(136.000000) translate(-24.783318, -24.783318) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
