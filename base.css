@@ -109,8 +109,8 @@ h4, h5 {
 }*/
 .button-holder{
     position: fixed;
-    bottom: 10%;
-    width: 100%;
+    bottom: 14%;
+    width: 115%;
 }
 .small-buttons{
     display: inline-block;
