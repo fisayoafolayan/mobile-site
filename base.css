@@ -39,7 +39,7 @@ h4, h5 {
     background: #FFFFFF;
     color: #717171;
     border-radius: 5px;
-    border-width: 1px;
+    border: 1px solid #ccc;
     margin: 20px 17px 20px 17px;
 }
 .table83-chat-box img {
