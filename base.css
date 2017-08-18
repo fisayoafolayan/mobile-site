@@ -1,5 +1,6 @@
 body{
     font-family: 'Roboto', sans-serif;
+    width:100%;
 }
 h4, h5 {
     line-height: 1.5em;
@@ -13,7 +14,7 @@ h4, h5 {
 }
 .table83-header{
     height: 60.69px;
-    width: 320px;
+    width: 100%;
     background: #00BABA;
 
 }
@@ -27,13 +28,13 @@ h4, h5 {
     color: #ffffff;
 }
 .table83-message-container{
-    width: 320px;
+    width: 100%;
     height: 759px;
     background: #F9F9F9;
     position: absolute;
 }
 .table83-chat-box{
-    width: 286px;
+    width: calc(100%-34px);
     height: 92px;
     background: #FFFFFF;
     color: #717171;
@@ -65,49 +66,55 @@ h4, h5 {
 
 }
 .add-button-below{
-   position: relative;
+   /*position: relative;*/
    /*border: 1px solid black;*/
-   width: 500px;
-   height: 750px;
+   width: 10%;
+   /*background: black;*/
+    margin: 0 auto;
+    display: table;
+
+   /*height: 750px;*/
 }
 .cancel-button-background{
-   position: relative;
+   /*position: relative;*/
    /*border: 1px solid black;*/
-   width: 320px;
-   height: 832.58px;
-   background: rgba(0, 0, 0, 0.81);
+    width: 100%;
+    position: absolute;
+    z-index: 2;
+    height: 140%;
+    min-height: 100%;
+    background: rgba(0, 0, 0, 0.81);
 }
 .add-button {
     position: fixed;
     bottom: 90px;
-    right: 50%;
-    /*width: 50px;*/
-    /*margin-left: -110px;*/
 }
-.cancel-button {
+/*.cancel-button {
     position: fixed;
-    bottom: 80px;
-    right: 50%;
-    /*width: 50px;*/
-    /*margin-left: -30px;*/
+    bottom: 90px;
+
 }
 .camera-button {
     position: fixed;
     bottom: 160px;
     right: 70%;
-    /*width: 50px;*/
-    /*margin-left: -30px;*/
+    width: 50px;
+
 }
 .messages-button {
     position: fixed;
     bottom: 160px;
     left: 50%;
-    /*width: 50px;*/
-    /*margin-left: -30px;*/
+  
+}*/
+.button-holder{
+    position: fixed;
+    bottom: 10%;
+    width: 100%;
 }
-.show-options{
-   background:rgba(0, 0, 0, 0.81);
-   width: 320px;
-   height: 832.58px;
+.small-buttons{
+    display: inline-block;
+    margin: 6%;
 }
+
 

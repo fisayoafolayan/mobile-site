@@ -16,7 +16,7 @@
 
 </head>
  <body>
-
+         
             <div class="table83-header">
                 <div class="table83-header-text">
                     TABLE83
@@ -121,26 +121,31 @@
                         </div>
                     </div>
                 </div> 
+
+            <div class="add-button-below" id="add_button">
+                <div class="add-button">
+                    <a href="#" onClick="showOptions()" ><img src="img/add-button.svg" /></a>
+                </div>
+            </div>
         
             </div>
-        <div class="row">
-        <div class="add-button-below" id="add_button">
-            <span class="add-button">
-                <a href="#" onClick="showOptions()" ><img src="img/add-button.svg" /></a>
-            </span>
-        </div>
-        <div class="cancel-button-background" id="cancel_button" hidden>
-            <div class="messages-button">
-                <a href="#"  ><img src="img/add-message-button.svg" /></a>
+            <div class="cancel-button-background" id="cancel_button" style="display: none;">
+                <div class="button-holder row" align="center">
+                    <div class="col-xs-6 small-buttons">
+                        <a href="#"  ><img src="img/add-message-button.svg" /></a>
+                    </div>
+
+                     <div class="col-xs-6 small-buttons">
+                        <a href="#" ><img src="img/camera-button.svg" /></a>
+                    </div>
+                    <div class="cancel-button">
+                        <a href="#" onClick="closeOptions()" ><img src="img/cancel-button.svg" /></a>
+                    </div>
+                </div>
             </div>
-             <div class="camera-button">
-                <a href="#" ><img src="img/camera-button.svg" /></a>
-            </div>
-            <div class="cancel-button">
-                <a href="#" onClick="closeOptions()" ><img src="img/cancel-button.svg" /></a>
-            </div>
-        </div>
-        </div>
+
+        
+     
      
     </body>
 
