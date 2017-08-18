@@ -114,7 +114,17 @@ h4, h5 {
 }
 .small-buttons{
     display: inline-block;
-    margin: 6%;
+    margin:0 10%;
 }
+.ul-buttons{
+    list-style: none;
+    display: inline-block;
+    padding: 0;
+    width: 100%;
 
+}
+.ul-buttons li{
+      display: inline-block;
+
+}
 
